@@ -1,0 +1,11 @@
+# Local source material and QA do not belong in the public website.
+resume.md
+*.docx
+*.pdf
+*.png
+!assets/joshua-crafts-at-work.png
+private/
+qa/
+node_modules/
+.DS_Store
+Thumbs.db
